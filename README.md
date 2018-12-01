@@ -89,6 +89,6 @@ This app allows you to upload your syllabus from class to the app and the app wi
 ---
 
 ### App Pitch Presentation
-// TODO: Add link to Pitch Presentation Deck
+https://docs.google.com/presentation/d/1otUEM9XUNQuD49dJBi8oUAyDDazxzUMybJ9rMUc-nVA/edit?usp=sharing
 
 
